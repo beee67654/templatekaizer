@@ -1,0 +1,16 @@
+{
+  "name": "templatekaizer",
+  "version": "1.0.0",
+  "description": "Конструктор мессенджера от KaizerDev",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "license": "MIT",
+ "dependencies": {
+  "express": "^4.18.2",
+  "ws": "^8.14.2",
+  "sqlite3": "^5.1.7"
+}
+
+}
